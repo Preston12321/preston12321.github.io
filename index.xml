@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio - Preston Locke</title>
-    <link>https://prestonlocke.net/</link>
+    <link>https://preston12321.github.io/</link>
     <description>Recent content on Portfolio - Preston Locke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Feb 2020 19:43:33 -0600</lastBuildDate>
     
-	<atom:link href="https://prestonlocke.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://preston12321.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Landing Page</title>
-      <link>https://prestonlocke.net/</link>
+      <link>https://preston12321.github.io/</link>
       <pubDate>Sat, 15 Feb 2020 19:43:33 -0600</pubDate>
       
-      <guid>https://prestonlocke.net/</guid>
+      <guid>https://preston12321.github.io/</guid>
       <description>Hello, I&amp;rsquo;m Preston! This is a test&amp;hellip;</description>
     </item>
     
