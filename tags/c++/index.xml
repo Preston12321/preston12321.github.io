@@ -6,26 +6,31 @@
     <description>Recent content in C&#43;&#43; on Portfolio - Preston Locke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Feb 2020 16:06:17 -0600</lastBuildDate>
-    
-	<atom:link href="https://prestonlocke.net/tags/c++/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 18 Sep 2020 13:23:18 -0500</lastBuildDate><atom:link href="https://prestonlocke.net/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Password Manager</title>
+      <link>https://prestonlocke.net/projects/collaborations/password-manager/</link>
+      <pubDate>Fri, 18 Sep 2020 13:23:18 -0500</pubDate>
+      
+      <guid>https://prestonlocke.net/projects/collaborations/password-manager/</guid>
+      <description>A partner and I created this application for our Computer Security and Privacy course as our final project. The goal was to implement a basic password manager that could properly encrypt/decrypt information, as well as provide feedback to the user about the strength of each password. I implemented most of the functionality, including data storage and encryption, as well as the optimized algorithm for checking passwords against pre-existing dictionaries of insecure passwords.</description>
+    </item>
     
     <item>
       <title>QNotPad</title>
-      <link>https://prestonlocke.net/projects/creations/qnotpad/</link>
+      <link>https://prestonlocke.net/projects/personal/qnotpad/</link>
       <pubDate>Sun, 16 Feb 2020 16:06:17 -0600</pubDate>
       
-      <guid>https://prestonlocke.net/projects/creations/qnotpad/</guid>
+      <guid>https://prestonlocke.net/projects/personal/qnotpad/</guid>
       <description>Using the Qt framework, I wrote a simple GUI text editor in C++, modeled after Notepad on Windows.</description>
     </item>
     
     <item>
       <title>CPUID</title>
-      <link>https://prestonlocke.net/projects/creations/cpuid/</link>
+      <link>https://prestonlocke.net/projects/personal/cpuid/</link>
       <pubDate>Sun, 16 Feb 2020 15:50:21 -0600</pubDate>
       
-      <guid>https://prestonlocke.net/projects/creations/cpuid/</guid>
+      <guid>https://prestonlocke.net/projects/personal/cpuid/</guid>
       <description>Using C++ code that interfaces with hand-written Assembly, I wrote a terminal application that reads the info about your CPU using the CPUID Assembly instruction.</description>
     </item>
     

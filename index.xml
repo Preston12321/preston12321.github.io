@@ -6,45 +6,51 @@
     <description>Recent content in Home on Portfolio - Preston Locke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Feb 2020 10:01:29 -0600</lastBuildDate>
-    
-	<atom:link href="https://prestonlocke.net/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 16 Feb 2020 10:01:29 -0600</lastBuildDate><atom:link href="https://prestonlocke.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Password Manager</title>
+      <link>https://prestonlocke.net/projects/collaborations/password-manager/</link>
+      <pubDate>Fri, 18 Sep 2020 13:23:18 -0500</pubDate>
+      
+      <guid>https://prestonlocke.net/projects/collaborations/password-manager/</guid>
+      <description>A partner and I created this application for our Computer Security and Privacy course as our final project. The goal was to implement a basic password manager that could properly encrypt/decrypt information, as well as provide feedback to the user about the strength of each password. I implemented most of the functionality, including data storage and encryption, as well as the optimized algorithm for checking passwords against pre-existing dictionaries of insecure passwords.</description>
+    </item>
     
     <item>
       <title>QNotPad</title>
-      <link>https://prestonlocke.net/projects/creations/qnotpad/</link>
+      <link>https://prestonlocke.net/projects/personal/qnotpad/</link>
       <pubDate>Sun, 16 Feb 2020 16:06:17 -0600</pubDate>
       
-      <guid>https://prestonlocke.net/projects/creations/qnotpad/</guid>
+      <guid>https://prestonlocke.net/projects/personal/qnotpad/</guid>
       <description>Using the Qt framework, I wrote a simple GUI text editor in C++, modeled after Notepad on Windows.</description>
     </item>
     
     <item>
       <title>CPUID</title>
-      <link>https://prestonlocke.net/projects/creations/cpuid/</link>
+      <link>https://prestonlocke.net/projects/personal/cpuid/</link>
       <pubDate>Sun, 16 Feb 2020 15:50:21 -0600</pubDate>
       
-      <guid>https://prestonlocke.net/projects/creations/cpuid/</guid>
+      <guid>https://prestonlocke.net/projects/personal/cpuid/</guid>
       <description>Using C++ code that interfaces with hand-written Assembly, I wrote a terminal application that reads the info about your CPU using the CPUID Assembly instruction.</description>
     </item>
     
     <item>
       <title>A* Algorithm Visualization</title>
-      <link>https://prestonlocke.net/projects/contributions/a-star-visualization/</link>
+      <link>https://prestonlocke.net/projects/collaborations/a-star-visualization/</link>
       <pubDate>Sun, 16 Feb 2020 11:27:38 -0600</pubDate>
       
-      <guid>https://prestonlocke.net/projects/contributions/a-star-visualization/</guid>
-      <description>Helped design and implement a Pygame-based visualization of the A* pathfinding algorithm.</description>
+      <guid>https://prestonlocke.net/projects/collaborations/a-star-visualization/</guid>
+      <description>This project used the PyGame library for Python. Myself and two other classmates collaborated over the last month of our Algorithms course to create this visualization as our final project. I mainly worked on the user interface because I was able to quickly learn how to use PyGame to create the cells and the UI control elements, as well as the main event loop for the program.</description>
     </item>
     
     <item>
-      <title>Development Lead - PotLuck</title>
-      <link>https://prestonlocke.net/projects/contributions/potluck/</link>
+      <title>PotLuck</title>
+      <link>https://prestonlocke.net/projects/collaborations/potluck/</link>
       <pubDate>Sun, 16 Feb 2020 11:17:57 -0600</pubDate>
       
-      <guid>https://prestonlocke.net/projects/contributions/potluck/</guid>
-      <description>Delegated development tasks, researched and recommended technologies, and designed mobile and cloud architecture for a cross-platform recipe app.</description>
+      <guid>https://prestonlocke.net/projects/collaborations/potluck/</guid>
+      <description>PotLuck is a cross-platform mobile application that helps people find recipes based on the ingredients they already have. You can cook alone or with friends, and the app allows you to pool together your group&amp;rsquo;s available ingredients. By removing the guesswork out of knowing what what&amp;rsquo;s needed vs what you already have, PotLuck makes it easy to decide what to cook.
+The app was implemented using Flutter for the UI and Firebase for the user authentication, data storage (Cloud Firestore), and recipe search backend (Cloud Functions/Node.</description>
     </item>
     
   </channel>
