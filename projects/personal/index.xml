@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://prestonlocke.net/projects/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Chess</title>
+      <link>https://prestonlocke.net/projects/personal/chess/</link>
+      <pubDate>Wed, 07 Oct 2020 08:09:52 -0500</pubDate>
+      
+      <guid>https://prestonlocke.net/projects/personal/chess/</guid>
+      <description>This project has been years in the making&amp;hellip; I first learned chess in middle school, right around the same time that I started visiting my local library in search of programming knowledge (I didn&amp;rsquo;t have internet at home and my school never offered a single CS class until the year after I graduated high school). Because I grew to greatly enjoy playing chess with my friends, I thought it would be really cool to make my own implementation of it.</description>
+    </item>
+    
+    <item>
       <title>QNotPad</title>
       <link>https://prestonlocke.net/projects/personal/qnotpad/</link>
       <pubDate>Sun, 16 Feb 2020 16:06:17 -0600</pubDate>
