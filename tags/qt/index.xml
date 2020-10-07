@@ -22,7 +22,7 @@
       <pubDate>Sun, 16 Feb 2020 16:06:17 -0600</pubDate>
       
       <guid>https://prestonlocke.net/projects/personal/qnotpad/</guid>
-      <description>Using the Qt framework, I wrote a simple GUI text editor in C++, modeled after Notepad on Windows.</description>
+      <description>This project was inspired by the classic Notepad application on Windows. I used this opportunity to learn how to use the Qt framework, but this was also my first native (non-web) project that included a graphical user interface. Previously I had only written code that printed output to the terminal, which is why I chose to copy the design of a pre-existing application rather than create my own design.</description>
     </item>
     
   </channel>

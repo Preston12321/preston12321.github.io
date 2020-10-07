@@ -13,7 +13,7 @@
       <pubDate>Sun, 16 Feb 2020 15:50:21 -0600</pubDate>
       
       <guid>https://prestonlocke.net/projects/personal/cpuid/</guid>
-      <description>Using C++ code that interfaces with hand-written Assembly, I wrote a terminal application that reads the info about your CPU using the CPUID Assembly instruction.</description>
+      <description>I started this project after becoming curious how hardware detection tools like CPU-Z work. When I looked up the developers of the software, CPUID, I learned that their namesake was also the name of an Assembly instruction that returns info about a machine&amp;rsquo;s CPU! Since my Computer Systems Organization class taught me about the inner workings of a processor and how Assembly code works, I really wanted to see if I could write my own code to utilize the CPUID instruction.</description>
     </item>
     
   </channel>

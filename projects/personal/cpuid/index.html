@@ -7,9 +7,9 @@
   <title>Portfolio - Preston Locke | CPUID</title>
   <meta property="og:title" content="Portfolio - Preston Locke | CPUID" />
   <meta property="og:image" content="https://prestonlocke.net/img/avatar.jpg" />
-  <meta name="description" content="A terminal application that reads the info about your CPU using the CPUID Assembly instruction.">
+  <meta name="description" content="&lt;ul&gt;&lt;li&gt;Used C&#43;&#43; and x86 Assembly to create a terminal application that reads CPU details&lt;/li&gt;&lt;li&gt;Learned to read large documentation manuals to understand a complex API&lt;/li&gt;&lt;li&gt;Practiced interfacing between low-level and high-level languages&lt;/li&gt;&lt;/ul&gt;">
   <meta property="og:description"
-    content="A terminal application that reads the info about your CPU using the CPUID Assembly instruction." />
+    content="&lt;ul&gt;&lt;li&gt;Used C&#43;&#43; and x86 Assembly to create a terminal application that reads CPU details&lt;/li&gt;&lt;li&gt;Learned to read large documentation manuals to understand a complex API&lt;/li&gt;&lt;li&gt;Practiced interfacing between low-level and high-level languages&lt;/li&gt;&lt;/ul&gt;" />
   <meta name="author" content="Preston Locke">
   
   <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css"
@@ -116,7 +116,22 @@
     <h2 class="mb-0"><span class="text-primary">CPUID</span></h2>
     <p>Project link: <a href="https://github.com/Preston12321/cpuid">https://github.com/Preston12321/cpuid</a></p>
     <div style="max-width: 7.5in;text-align: justify;">
-      <p>Using C++ code that interfaces with hand-written Assembly, I wrote a terminal application that reads the info about your CPU using the CPUID Assembly instruction.</p>
+      <p>I started this project after becoming curious how hardware detection tools like <a href="https://www.cpuid.com/softwares/cpu-z.html">CPU-Z</a>
+work. When I looked up the developers of the software, CPUID, I learned that their namesake was
+also the name of an Assembly instruction that returns info about a machine&rsquo;s CPU! Since my Computer
+Systems Organization class taught me about the inner workings of a processor and how Assembly
+code works, I really wanted to see if I could write my own code to utilize the CPUID instruction.</p>
+<p>This project gave me the opportunity to work with both C++ and Assembly together, something I had
+also never done before. I learned how to interface between the two using what I had learned about
+passing arguments between functions in lower-level languages like C/C++ and Assembly. Being
+unfamiliar with highly technical documentation, it was also a learning experience navigating
+Intel&rsquo;s <a href="https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html">developer manuals</a>
+to piece together how the CPUID instruction works.</p>
+<p>Needless to say, modern processors are extremely complex with an immense amount of &ldquo;feature flags&rdquo;,
+so I was never able to implement the parsing of every possible &ldquo;leaf&rdquo; of info the CPU can return.
+Nevertheless, this project stands as a proof-of-concept to show that I can parse dense documentation
+and implement hybrid low-level and high-level solutions that interface with real hardware. It was
+truly a fun project to hack on!</p>
 
     </div>
     <ul class="tags">
