@@ -1,3 +1,10 @@
+/* Properly center project images & descriptions vertically */
+.vert-center {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
 .p-0{
   margin: 0 auto;
 }
